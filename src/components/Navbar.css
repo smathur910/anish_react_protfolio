@@ -27,10 +27,10 @@
     content: '.me';
     font-size: var(--regular);
     color: var(--primary-red);
-    -webkit-animation: colorchange 20s infinite alternate;
+    animation: colorchange 20s infinite alternate;
 }
 
-@-webkit-keyframes colorchange {
+@keyframes colorchange {
     0% {
         color: var(--primary-red);
     }

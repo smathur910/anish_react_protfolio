@@ -1,0 +1,32 @@
+.skills {
+    opacity: 0;
+    transition: opacity 0.6s;
+}
+
+.skills h1 {
+    font-size: var(--regular);
+    color: var(--blue);
+    text-align: left;
+}
+
+.skills>.tech_logo {
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+    position: relative;
+    top: 26px;
+}
+
+.skills>.tech_logo {
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+    position: relative;
+    top: 26px;
+}
+
+.tech_logo img {
+    width: 28px;
+    height: 28px;
+    margin: 0 3px;
+}

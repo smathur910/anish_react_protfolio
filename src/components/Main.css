@@ -1,0 +1,20 @@
+.wrapper {
+    width: 100%;
+    position: relative;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    width: 100%;
+    padding: 0 125px;
+    margin: 70px 0 0 0;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.main-heading {
+    position: relative;
+    top: 28%;
+    left: 23px;
+}

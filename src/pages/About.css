@@ -1,0 +1,15 @@
+.about-me {
+    opacity: 0;
+    transition: opacity 0.6s;
+}
+
+.about_containt {
+    width: 360px;
+    margin: 26px 0px;
+}
+
+.about_containt p {
+    font-size: var(--small);
+    color: var(--primary-red);
+    text-align: justify;
+}

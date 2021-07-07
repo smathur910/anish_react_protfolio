@@ -1,0 +1,24 @@
+.footer_text {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.footer_text p {
+    font-size: var(--paragraph);
+    text-align: center;
+    font-weight: 600;
+}
+
+.footer_text p span:nth-child(1) {
+    color: var(--blue);
+}
+
+.footer_text p span:nth-child(2) {
+    color: var(--orange);
+}
+
+.footer_text p span:nth-child(3) {
+    color: var(--primary-red);
+}
