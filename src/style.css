@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap');
+@import url("/src/responsive.css");
+:root {
+    /* DEFINE COLORS CODES */
+    --primary-red: #d82948;
+    --violet: #460273;
+    --blue: #0697f2;
+    --orange: #f27d16;
+    /* FONT SIZE */
+    --small: 12px;
+    --regular: 20px;
+    --medium: 25px;
+    --large: 48px;
+    --xl: 61px;
+    --paragraph: 16px
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,
+html {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+}
