@@ -20,5 +20,5 @@
 .tagline h1 {
     font-size: var(--small);
     color: var(--orange);
-    text-align: center;
+    text-align: left;
 }

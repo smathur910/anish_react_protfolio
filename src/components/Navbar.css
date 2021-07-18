@@ -19,6 +19,7 @@
 .header-container>.logo-title>h1 {
     position: relative;
     top: 14px;
+    padding: 3px 22px;
     font-size: var(--regular);
     color: var(--orange);
 }

@@ -17,7 +17,7 @@
     }
     .tagline {
         position: relative;
-        left: 63px;
+        /* left: 63px; */
     }
     .tagline h1 {
         font-size: var( --regular);
@@ -72,6 +72,9 @@
         text-align: center;
         margin: 27px 0;
     }
+    .tagline h1 {
+        text-align: center;
+    }
     .skills h1 {
         text-align: center;
     }
@@ -106,6 +109,9 @@
         text-align: center;
         margin: 27px 0;
     }
+    .tagline h1 {
+        text-align: center;
+    }
     .skills h1 {
         text-align: center;
     }
@@ -133,6 +139,7 @@
     }
     .tagline h1 {
         font-size: 9px;
+        text-align: center;
     }
     .about_containt {
         width: 100%;

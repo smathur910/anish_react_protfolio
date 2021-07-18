@@ -5,9 +5,9 @@ const Navbar = () => {
 
         <div id="header">
             <div className="header-container">
-                <div className="logo">
+                {/* <div className="logo">
                     <img src="/images/anish.png" alt=""></img>
-                </div>
+                </div> */}
                 <div className="logo-title">
                     <h1>imanish</h1>
                 </div>
